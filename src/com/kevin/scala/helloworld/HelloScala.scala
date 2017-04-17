@@ -1,4 +1,4 @@
-package com.kevin.scala.basic1
+package com.kevin.scala.helloworld
 
 object HelloScala {
   def main(args: Array[String]): Unit = {
